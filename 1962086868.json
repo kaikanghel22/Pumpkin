@@ -1,4 +1,28 @@
 {
-    "game name": "Tower of Hell",
-    "who made this game": "This game was created by developer name."
+  "game": {
+    "name": "Tower of Hell",
+    "creator": "YXCeptional Studios",
+    "genre": "Obby / Skill-based Platformer",
+    "description": "Tower of Hell is a fast-paced obby game where players race to the top of a randomly generated tower without checkpoints, testing their skill, timing, and patience."
+  },
+
+  "mechanics": {
+    "climbing": "Players must climb obstacles and platforms to reach the top of the tower.",
+    "random_towers": "Each round features a randomly generated tower layout.",
+    "no_checkpoints": "Falling means starting over from the bottom; there are no checkpoints by default.",
+    "modifiers": "Rounds may have special modifiers like low gravity, speed changes, or invisibility."
+  },
+
+  "tips": [
+    "Take your time and focus on precision jumps.",
+    "Watch other players to learn obstacle patterns.",
+    "Use shift lock for better camera control.",
+    "Practice each type of obstacle to improve skill.",
+    "Stay calm after falling to avoid mistakes."
+  ],
+
+  "rules": [
+    "No exploiting or cheating allowed.",
+    "Respect other players; intentional griefing is discouraged."
+  ]
 }

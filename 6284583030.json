@@ -1,0 +1,30 @@
+{
+  "game": {
+    "name": "Pet Simulator X",
+    "creator": "BIG Games",
+    "genre": "Simulator / Pet Collection",
+    "description": "Pet Simulator X is a Roblox simulator game where players collect pets, hatch eggs, break objects for coins, and progress through worlds by upgrading pets and unlocking new areas."
+  },
+
+  "mechanics": {
+    "pet_collection": "Players collect pets by hatching eggs using coins or gems.",
+    "pet_upgrades": "Pets can be upgraded to deal more damage and earn more currency.",
+    "enchantments": "Pets can have enchantments that boost coins, damage, or special abilities.",
+    "world_progression": "Unlocking new worlds requires collecting enough currency and stronger pets.",
+    "trading": "Players can trade pets, gems, and items with other players."
+  },
+
+  "tips": [
+    "Focus on hatching eggs with the best pets available to you.",
+    "Upgrade and enchant your strongest pets first.",
+    "Use auto-farm features to earn coins faster.",
+    "Save gems for exclusive or rare pets.",
+    "Trade wisely and avoid scams."
+  ],
+
+  "rules": [
+    "No exploiting or cheating allowed.",
+    "Scamming is not allowed.",
+    "Respect other players during trades."
+  ]
+}

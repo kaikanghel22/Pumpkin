@@ -1,0 +1,29 @@
+{
+  "game": {
+    "name": "The Forge",
+    "creator": "The Forge Community",
+    "genre": "Rpg / Action Rpg",
+    "description": "Forge is a progression-based Roblox game where players collect resources, craft items, and upgrade their forge to unlock stronger gear and progress further."
+  },
+
+  "mechanics": {
+    "resource_collection": "Players gather resources to use for crafting and upgrades.",
+    "forging": "Forging allows players to create items, tools, or upgrades.",
+    "upgrades": "Upgrades improve efficiency, speed, or unlock new crafting options.",
+    "progression": "Advancing in the game requires optimizing crafting and upgrade choices."
+  },
+
+  "tips": [
+    "Focus on upgrading your forge early.",
+    "Spend resources wisely and avoid unnecessary crafts.",
+    "Upgrade efficiency before speed when starting out.",
+    "Learn which items give the best progression value.",
+    "Be patient and plan your upgrades."
+  ],
+
+  "rules": [
+    "No exploiting or cheating allowed.",
+    "Use game mechanics as intended.",
+    "Respect other players and the game environment."
+  ]
+}

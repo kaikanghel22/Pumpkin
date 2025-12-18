@@ -1,0 +1,30 @@
+{
+  "game": {
+    "name": "Pet Simulator 99",
+    "creator": "BIG Games",
+    "genre": "Simulator / Pet Collection",
+    "description": "Pet Simulator 99 is a pet-collecting simulator where players hatch eggs, collect powerful pets, earn coins and gems, and progress through worlds using upgraded pets and new mechanics."
+  },
+
+  "mechanics": {
+    "pet_collection": "Players hatch eggs to collect pets with different rarities and strengths.",
+    "pet_upgrades": "Pets can be upgraded to increase damage and efficiency.",
+    "enchantments": "Pets can be enchanted to boost coins, damage, gems, or special effects.",
+    "area_progression": "New areas unlock as players earn more currency and improve pet power.",
+    "trading": "Players can trade pets, items, and currency with other players."
+  },
+
+  "tips": [
+    "Always equip your strongest pets.",
+    "Upgrade pet slots early for faster progression.",
+    "Use enchantments that boost coins and gems.",
+    "Save gems for better eggs or upgrades.",
+    "Trade smart and avoid scams."
+  ],
+
+  "rules": [
+    "No exploiting or cheating allowed.",
+    "Scamming or fake trades are not allowed.",
+    "Respect other players."
+  ]
+}

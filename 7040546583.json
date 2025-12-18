@@ -1,0 +1,29 @@
+{
+  "game": {
+    "name": "Dragon Blox",
+    "creator": "G RBLX Games",
+    "genre": "Fighting / RPG",
+    "description": "Dragon Blox is an anime-inspired Roblox game where players train their stats, fight enemies, unlock powerful transformations, and rebirth to gain permanent progression bonuses."
+  },
+
+  "mechanics": {
+    "training": "Training increases your stats over time and makes your character stronger.",
+    "combat": "Players fight NPCs and other players to gain rewards and progress.",
+    "transformations": "Transformations greatly multiply your power and unlock new abilities.",
+    "rebirth": "Rebirthing resets progress in exchange for permanent stat bonuses."
+  },
+
+  "tips": [
+    "Train stats evenly at the start.",
+    "Transform before fighting strong bosses.",
+    "Rebirth when training becomes slow.",
+    "Avoid PvP until you are strong enough.",
+    "Use safe zones to train without risk."
+  ],
+
+  "rules": [
+    "No exploiting or cheating allowed.",
+    "PvP zones can be dangerous.",
+    "Respect other players."
+  ]
+}
